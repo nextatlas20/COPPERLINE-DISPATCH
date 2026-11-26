@@ -1,0 +1,7 @@
+ticket_id,asset_id,crew_code,queue_rank,decision,scheduled_minutes,remaining_minutes
+T-204,SIGN-12,C-C1,1,ASSIGNED,130,70
+T-201,LIFT-01,C-A1,2,ASSIGNED,90,90
+T-203,PUMP-07,C-B1,3,ASSIGNED,120,30
+T-202,LAMP-22,C-A2,4,ASSIGNED,60,60
+T-205,GATE-03,,5,DEFERRED,0,
+T-213,LIFT-01,,6,DEFERRED,0,
